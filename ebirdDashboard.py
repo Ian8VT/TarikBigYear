@@ -38,6 +38,7 @@ for key, value in combined_dict.items():
 
 # Initialize Dash app
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 
 # Specify custom marks for the slider
 slider_marks = {i: str(i) for i in range(0, int(max(x_values)), 100)}
