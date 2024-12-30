@@ -1,0 +1,370 @@
+Species,PercOfChecklists,Count
+Black-bellied Whistling-Duck,0.16,2
+Snow Goose,0.16,1
+Ross's Goose,0.16,3
+Greater White-fronted Goose,0.49,7
+Brant (Atlantic),0.16,1
+Cackling Goose,0.33,4
+Canada Goose,47.63,5361
+Mute Swan,2.28,62
+Trumpeter Swan,0.65,45
+Tundra Swan,0.33,2
+Trumpeter/Tundra Swan,0.16,3
+swan sp.,0.33,6
+Wood Duck,4.73,79
+Blue-winged Teal,8.16,569
+Northern Shoveler,3.1,195
+Gadwall,1.63,36
+American Wigeon,1.31,35
+Mallard,53.51,2565
+Mallard (Domestic type),0.98,6
+American Wigeon x Mallard (hybrid),0.16,1
+American Black Duck,1.31,14
+Mallard/American Black Duck,0.16,1
+Northern Pintail,2.61,1365
+Mallard x Northern Pintail (hybrid),0.16,1
+Green-winged Teal,4.4,156
+Green-winged Teal (American),0.49,147
+dabbling duck sp.,0.98,217
+Canvasback,0.49,70
+Redhead,5.87,441
+Ring-necked Duck,0.98,19
+Greater Scaup,6.04,511
+Lesser Scaup,4.73,552
+Greater/Lesser Scaup,2.12,178
+Aythya sp.,1.47,432
+Surf Scoter,1.31,36
+White-winged Scoter,0.82,10
+Black Scoter,1.63,19
+Surf/Black Scoter,0.82,18
+scoter sp.,0.16,1
+Long-tailed Duck,2.45,157
+Bufflehead,4.89,83
+Common Goldeneye,7.18,302
+Hooded Merganser,2.61,58
+Common Merganser,3.1,83
+Common Merganser (North American),0.16,16
+Red-breasted Merganser,19.41,6712
+Ruddy Duck,1.14,21
+duck sp.,6.36,4406
+waterfowl sp.,0.49,10
+Northern Bobwhite,0.49,3
+Wild Turkey,0.16,15
+Ring-necked Pheasant,0.16,1
+Rock Pigeon (Feral Pigeon),9.79,623
+Eurasian Collared-Dove,0.33,3
+Mourning Dove,18.11,588
+pigeon/dove sp.,0.16,1
+Yellow-billed Cuckoo,0.65,4
+Black-billed Cuckoo,0.33,2
+Yellow-billed/Black-billed Cuckoo,0.33,2
+Common Nighthawk,1.47,12
+Eastern Whip-poor-will,0.33,2
+Chimney Swift,16.8,1159
+Ruby-throated Hummingbird,1.63,15
+King Rail,0.16,1
+Virginia Rail,0.49,3
+Sora,2.12,30
+Common Gallinule,0.33,2
+American Coot,4.08,340
+Sandhill Crane,2.28,4837
+Whooping Crane,0.16,1
+American Avocet,1.14,51
+Black-bellied Plover,1.14,13
+American Golden-Plover,0.65,6
+Black-bellied Plover/golden-plover sp.,0.16,1
+Killdeer,28.87,2099
+Semipalmated Plover,7.5,257
+Piping Plover,12.07,174
+Upland Sandpiper,0.49,3
+Whimbrel,0.65,6
+Whimbrel (Hudsonian),0.16,1
+Marbled Godwit,2.12,13
+Short-billed Dowitcher,3.75,64
+Long-billed Dowitcher,0.33,4
+American Woodcock,0.65,23
+Wilson's Snipe,2.94,113
+Wilson's Phalarope,0.65,9
+Red-necked Phalarope,0.33,2
+Red/Red-necked Phalarope,0.16,1
+Spotted Sandpiper,20.07,390
+Solitary Sandpiper,5.71,163
+Lesser Yellowlegs,7.34,645
+Willet,2.45,103
+Greater Yellowlegs,5.22,82
+Lesser/Greater Yellowlegs,0.16,1
+Ruddy Turnstone,0.49,4
+Red Knot,0.33,2
+Ruff,0.16,1
+Stilt Sandpiper,2.77,64
+Buff-breasted Sandpiper,0.16,1
+Sanderling,5.22,130
+Dunlin,3.1,117
+Baird's Sandpiper,0.98,7
+White-rumped Sandpiper,0.49,3
+Least Sandpiper,11.91,681
+Pectoral Sandpiper,5.87,303
+Semipalmated Sandpiper,8.16,861
+peep sp.,0.49,22
+shorebird sp.,1.31,78
+Long-tailed Jaeger,0.16,1
+Parasitic Jaeger,0.16,1
+Long-tailed/Parasitic Jaeger,0.16,1
+jaeger sp.,0.33,2
+Sabine's Gull,0.49,9
+Bonaparte's Gull,2.77,110
+Laughing Gull,0.33,3
+Franklin's Gull,0.33,2
+Ring-billed Gull,67.05,17487
+Laughing x Ring-billed Gull (hybrid),0.16,1
+American Herring Gull,51.71,5451
+Great Black-backed Gull,1.63,12
+Lesser Black-backed Gull,1.14,9
+Lesser Black-backed Gull (graellsii),1.31,8
+Iceland Gull,0.33,2
+Iceland Gull (Thayer's),0.82,5
+Larus sp.,2.94,292
+gull sp.,0.65,5
+Caspian Tern,25.77,1422
+Black Tern,0.33,3
+Forster's Tern,1.96,29
+Common Tern,1.31,36
+Forster's/Common Tern,0.33,3
+Sterna sp.,0.33,6
+tern sp.,0.16,2
+Pied-billed Grebe,1.47,14
+Horned Grebe,5.06,73
+Red-necked Grebe,0.16,1
+Eared Grebe,0.82,5
+Western Grebe,0.16,1
+grebe sp.,0.16,1
+Red-throated Loon,1.31,9
+Common Loon,4.57,178
+loon sp.,1.14,13
+Double-crested Cormorant,34.75,6123
+American Bittern,0.49,3
+Least Bittern,0.49,3
+Yellow-crowned Night Heron,0.16,1
+Black-crowned Night Heron,3.1,36
+Little Blue Heron,0.16,1
+Snowy Egret,0.33,4
+Green Heron,4.08,41
+Western Cattle-Egret,0.16,1
+Great Egret,5.22,130
+Great Blue Heron,12.23,169
+Great Blue Heron (Great Blue),0.65,6
+American White Pelican,0.82,121
+Turkey Vulture,4.57,57
+Osprey,2.45,21
+Golden Eagle,0.16,1
+Sharp-shinned Hawk,0.98,5
+Cooper's Hawk,7.01,59
+Sharp-shinned/Cooper's Hawk,0.33,2
+Northern Harrier,3.26,28
+Bald Eagle,4.89,60
+Mississippi Kite,0.16,1
+Broad-winged Hawk,0.65,4
+Red-shouldered Hawk,0.98,7
+Broad-winged/Red-shouldered Hawk,0.16,1
+Red-tailed Hawk,9.3,94
+Red-tailed Hawk (abieticola),0.16,1
+Red-tailed Hawk (borealis),0.82,46
+Rough-legged Hawk,1.14,8
+Buteo sp.,1.31,14
+hawk sp.,0.49,3
+Eastern Screech-Owl,0.65,4
+Snowy Owl,0.16,1
+Great Horned Owl,0.33,2
+Burrowing Owl,0.16,1
+Barred Owl,0.33,3
+Long-eared Owl,1.47,13
+Short-eared Owl,1.31,15
+Short-eared Owl (Northern),0.16,1
+Northern Saw-whet Owl,0.16,1
+owl sp.,0.16,1
+Belted Kingfisher,2.94,24
+Yellow-bellied Sapsucker,1.96,16
+Red-headed Woodpecker,1.96,17
+Red-bellied Woodpecker,7.34,70
+Downy Woodpecker,19.25,169
+Downy Woodpecker (Eastern),0.49,7
+Hairy Woodpecker,3.75,26
+Pileated Woodpecker,0.49,3
+Northern Flicker,13.7,153
+Northern Flicker (Yellow-shafted),0.82,8
+woodpecker sp.,0.49,3
+American Kestrel,7.83,62
+Merlin,0.65,4
+Merlin (Taiga),0.16,1
+Peregrine Falcon,4.57,36
+falcon sp.,0.82,5
+diurnal raptor sp.,0.65,4
+Monk Parakeet,0.33,41
+Olive-sided Flycatcher,0.33,2
+Eastern Wood-Pewee,4.57,55
+Yellow-bellied Flycatcher,0.82,8
+Acadian Flycatcher,0.33,4
+Alder Flycatcher,0.65,5
+Willow Flycatcher,2.94,27
+Alder/Willow Flycatcher (Traill's Flycatcher),0.16,1
+Least Flycatcher,4.4,50
+Empidonax sp.,0.49,4
+Eastern Phoebe,4.24,59
+Say's Phoebe,0.16,1
+Great Crested Flycatcher,2.77,19
+Western Kingbird,0.16,1
+Eastern Kingbird,5.22,64
+Scissor-tailed Flycatcher,0.16,1
+new world flycatcher sp.,0.16,3
+White-eyed Vireo,0.33,2
+Bell's Vireo,0.16,1
+Yellow-throated Vireo,0.16,1
+Blue-headed Vireo,0.33,2
+Philadelphia Vireo,0.82,5
+Warbling Vireo,9.46,134
+Warbling Vireo (Eastern),0.33,4
+Red-eyed Vireo,3.92,47
+Northern Shrike,0.33,2
+Blue Jay,11.42,280
+American Crow,12.72,261
+Black-capped Chickadee,18.6,353
+Tufted Titmouse,1.14,17
+Horned Lark,0.82,10
+Bank Swallow,14.52,1058
+Tree Swallow,22.51,859
+Purple Martin,15.82,1823
+Northern Rough-winged Swallow,20.88,1150
+Barn Swallow,25.12,1194
+Barn Swallow (American),0.33,10
+Cliff Swallow,3.43,52
+swallow sp.,0.82,56
+Ruby-crowned Kinglet,7.99,242
+Golden-crowned Kinglet,7.01,335
+White-breasted Nuthatch,4.4,40
+White-breasted Nuthatch (Eastern),0.16,1
+Red-breasted Nuthatch,1.14,7
+Brown Creeper,4.24,47
+Blue-gray Gnatcatcher,9.95,149
+Northern House Wren,7.34,61
+Winter Wren,2.12,21
+Sedge Wren,0.98,24
+Marsh Wren,2.12,32
+Marsh Wren (palustris Group),0.16,1
+Carolina Wren,0.33,3
+wren sp.,0.33,2
+European Starling,35.56,15069
+Gray Catbird,13.7,184
+Brown Thrasher,3.59,41
+Northern Mockingbird,0.16,1
+Eastern Bluebird,0.82,11
+Veery,1.79,15
+Gray-cheeked Thrush,0.33,3
+Swainson's Thrush,4.4,133
+Hermit Thrush,4.73,146
+Catharus sp.,0.49,4
+Wood Thrush,0.33,2
+American Robin,53.34,3115
+Cedar Waxwing,9.14,618
+House Sparrow,29.69,1815
+Eurasian Tree Sparrow,0.16,1
+American Pipit,1.14,18
+House Finch,7.99,265
+Purple Finch,0.98,11
+House/Purple Finch,0.16,2
+European Goldfinch,0.16,1
+Pine Siskin,0.49,17
+American Goldfinch,30.18,1347
+Lapland Longspur,1.63,184
+Chestnut-collared Longspur,0.16,1
+Smith's Longspur,0.16,2
+longspur sp.,0.16,6
+Snow Bunting,2.12,191
+Grasshopper Sparrow,0.65,15
+Chipping Sparrow,2.45,21
+Clay-colored Sparrow,0.16,1
+Field Sparrow,4.08,86
+Lark Sparrow,0.49,3
+Lark Bunting,0.16,1
+American Tree Sparrow,12.07,430
+Fox Sparrow,2.28,42
+Fox Sparrow (Red),0.16,3
+Dark-eyed Junco,18.27,632
+Dark-eyed Junco (Slate-colored),1.31,87
+Dark-eyed Junco (Oregon),0.16,1
+White-crowned Sparrow,8.97,535
+Harris's Sparrow,0.49,3
+White-throated Sparrow,11.09,918
+Vesper Sparrow,0.49,7
+LeConte's Sparrow,0.49,3
+Nelson's Sparrow,0.49,8
+Nelson's Sparrow (Interior),0.16,1
+Savannah Sparrow,6.85,150
+Henslow's Sparrow,0.98,24
+Song Sparrow,22.68,494
+Lincoln's Sparrow,3.75,33
+Swamp Sparrow,9.46,178
+Spotted Towhee,0.16,1
+Eastern Towhee,4.4,65
+new world sparrow sp.,2.12,39
+Yellow-breasted Chat,0.49,7
+Yellow-headed Blackbird,0.65,4
+Bobolink,0.82,26
+Western Meadowlark,0.16,1
+Eastern Meadowlark,4.24,83
+Western/Eastern Meadowlark,0.16,1
+Orchard Oriole,1.96,21
+Baltimore Oriole,5.22,56
+Red-winged Blackbird,40.95,3141
+Red-winged Blackbird (Red-winged),0.82,114
+Brown-headed Cowbird,15.5,542
+Rusty Blackbird,1.79,98
+Brewer's Blackbird,0.33,3
+Common Grackle,21.37,910
+blackbird sp.,0.65,57
+Ovenbird,2.61,20
+Louisiana Waterthrush,0.33,3
+Northern Waterthrush,2.61,22
+Golden-winged Warbler,0.65,6
+Blue-winged Warbler,0.82,6
+Black-and-white Warbler,2.94,43
+Prothonotary Warbler,0.16,1
+Tennessee Warbler,3.43,64
+Orange-crowned Warbler,4.4,34
+Nashville Warbler,5.06,55
+Connecticut Warbler,0.65,4
+Mourning Warbler,0.65,4
+Common Yellowthroat,11.09,221
+Hooded Warbler,0.16,1
+American Redstart,6.2,140
+Cape May Warbler,1.47,22
+Cerulean Warbler,0.33,2
+Northern Parula,1.79,12
+Magnolia Warbler,4.4,62
+Bay-breasted Warbler,1.79,27
+Blackburnian Warbler,1.63,25
+Yellow Warbler,13.38,295
+Yellow Warbler (Northern),0.49,8
+Chestnut-sided Warbler,2.45,40
+Blackpoll Warbler,1.96,18
+Black-throated Blue Warbler,0.82,6
+Palm Warbler,6.85,294
+Palm Warbler (Western),0.49,11
+Pine Warbler,0.16,1
+Yellow-rumped Warbler,11.75,311
+Yellow-rumped Warbler (Myrtle),0.65,75
+Yellow-throated Warbler,0.65,4
+Prairie Warbler,0.33,2
+Black-throated Gray Warbler,0.16,1
+Black-throated Green Warbler,1.79,17
+Canada Warbler,1.63,16
+Wilson's Warbler,3.26,40
+new world warbler sp.,2.28,47
+Summer Tanager,0.16,1
+Scarlet Tanager,0.65,5
+Northern Cardinal,28.06,391
+Rose-breasted Grosbeak,1.79,15
+Blue Grosbeak,0.33,2
+Indigo Bunting,4.73,70
+Dickcissel,1.63,122
+passerine sp.,1.47,170
+bird sp.,0.16,9
