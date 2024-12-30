@@ -3,8 +3,15 @@ import plotly.graph_objs as go
 import dash
 from dash import dcc, html, Input, Output
 import plotly.express as px
+import os
 
-filenameAggregatedSpecies = "C:/Users/Ian/Documents/eBird/Tarik/MyEBirdDataSpeciesSum.csv"
+
+# Get the directory where the script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the relative path to the CSV file
+filenameAggregatedSpecies = os.path.join(script_dir, 'data', 'MyEBirdDataSpeciesSum.csv')
+
 
 def create_dict_from_csv(filename):
     result_dict = {}
